@@ -1,10 +1,14 @@
-- application title:
-- author: 
+# application title:
+
+## author: 
+
   * id: 66114540418
   * name: นางสาวพรไหมฟ้า รุ่งเรือง
-- technology: streamlit
-- application description: 
+## technology: 
+streamlit
+## application description: 
 
-* presentation: [canva] link [ubu]
-* video: link [ubu]
+## presentation:
+  [canva] link [ubu]
+## video: link [ubu]
  xoxoxo
